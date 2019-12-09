@@ -1,6 +1,3 @@
-# OpenTrivia
-Small multiplayer quiz demo using express and socket.io in the backend and React for the UI. [Click Here](https://opentrivia.herokuapp.com/) to view the live demo. 
-
 ### How to use locally:
 
 * Clone the repository and run the following command to download all dependencies.
